@@ -1,0 +1,22 @@
+{
+    "name": "interchatweb",
+    "version": "1.0.0",
+    "description": "ChatBot Intercap WEB",
+    "scripts": {
+        "start": "node ./bin/www"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "cookie-parser": "^1.4.3",
+        "dotenv": "^4.0.0",
+        "express": "^4.16.3",
+        "https": "^1.0.0",
+        "jade": "^1.11.0",
+        "morgan": "^1.9.0",
+        "path": "^0.12.7",
+        "request": "^2.83.0",
+        "serve-favicon": "^2.5.0"
+    }
+}
